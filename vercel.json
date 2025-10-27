@@ -1,13 +1,13 @@
 {
   "redirects": [
     {
-      "source": "/x",
-      "destination": "https://x.com/natayadev"
+      "source": "/links",
+      "destination": "https://linktr.ee/natayadev"
     },
     {
       "source": "/",
-      "has": [{ "type": "host", "value": "x.nataya.com.ar" }],
-      "destination": "https://x.com/natayadev"
+      "has": [{ "type": "host", "value": "links.nataya.com.ar" }],
+      "destination": "https://linktr.ee/natayadev"
     }
   ]
 }
