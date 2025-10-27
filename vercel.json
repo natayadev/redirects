@@ -1,0 +1,13 @@
+{
+  "redirects": [
+    {
+      "source": "/x",
+      "destination": "https://x.com/natayadev"
+    },
+    {
+      "source": "/",
+      "has": [{ "type": "host", "value": "x.nataya.com.ar" }],
+      "destination": "https://x.com/natayadev"
+    }
+  ]
+}
